@@ -20,16 +20,15 @@ enable_smart_app_banner                   : true                                
 
 
 # Information About Yourself
-your_name                                 : Emil Baehr                                
-your_link                                 : https://emilbaehr.com                     
-your_city                                 : Copenhagen                                
-email_address                             : emil.baehr@gmail.com
+your_name                                 : Antonio Jesús Cazalla Ureña                                
+your_link                                 : https://twitter.com/cazallau
+your_city                                 : Spain 🇪🇸                                
+email_address                             : cazallauapps@gmail.com
 facebook_username                         :                                           
-instagram_username                        : ebaehr
-twitter_username                          : ebaehr
-github_username                           : emilbaehr
+instagram_username                        : 
+twitter_username                          : cazallau
+github_username                           : cazallau
 youtube_username                          :
-mastodon_link                             : https://mastodon.social/@ebaehr
 
 
 
@@ -41,11 +40,11 @@ features                                  :
     fontawesome_icon_name                 : lightbulb
     
   - title                                 : Multiple Effects
-    description                           : Choose from various strobe effects, pulse patterns, and color combinations to match the party mood
+    description                           : Choose from various strobe effects and pulse patterns to match the party mood
     fontawesome_icon_name                 : stars
     
   - title                                 : Easy Controls
-    description                           : Simple and intuitive interface to control speed, brightness, and patterns
+    description                           : Simple and intuitive interface to control speed.
     fontawesome_icon_name                 : sliders-h
     
   - title                                 : Battery Efficient
